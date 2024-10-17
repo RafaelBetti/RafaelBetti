@@ -1,4 +1,5 @@
-<p align="left">About Me 🧑🏻‍💻<br><br>- 📚 Pursuing a Bachelor's Degree in Information Systems at UNOESTE</p>
+<p align="left">About Me 🧑🏻‍💻<br><br>- 📚 Pursuing a Bachelor's Degree in Information Systems at UNOESTE
+<br><br>- 📫 Como entrar em contato comigo: rafaelmbvalentim@gmail.com</p>
 
 ###
 
