@@ -1,4 +1,4 @@
-<p align="left">About Me 🧑🏻‍💻<br><br>- 📚 Pursuing a Bachelor's Degree in Information Systems at UNOESTE</p>
+<p align="left">About Me 🧑🏻‍💻<br><br>- 📚 Student of Systems Analysis and Development | Java | APIs | PostgreSQL | Spring</p>
 
 ###
 
@@ -31,12 +31,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rafael-betti-497168240" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rafaelbetti_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
